@@ -1,6 +1,6 @@
 # Geo-JSON-Python
->The first problem to solve is that the Google geocoding
->API is rate limited to a fixed number of requests per day.
+>The first problem to solve is that the [Google geocoding
+>API](https://developers.google.com/maps/documentation/geocoding/overview) is rate limited to a fixed number of requests per day.
 >So if you have a lot of data you might need to stop and
 >restart the lookup process several times.  So we break
 >the problem into two phases.
